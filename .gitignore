@@ -1,0 +1,16 @@
+.venv/
+private/
+vendor/
+output/
+__pycache__/
+.pytest_cache/
+*.log
+*.dpapi
+*.sqlite*
+*.db*
+*.dll
+*.exe
+.env*
+native_bridge/proxy.cpp
+native_bridge/send.cpp
+native_bridge/version.def
